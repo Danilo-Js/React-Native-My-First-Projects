@@ -1,3 +1,1 @@
-*linguist-vendored
-*.JavaScript linguist-vendored=false
-*.React-Native linguist-detectable=true
+static/* linguist-vendored
