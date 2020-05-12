@@ -8,7 +8,7 @@
 
 ---
 
-  ##  **What is this** ❔
+  ## 💾 **What is this?** 
   #### This is a compilation of simple projects showing the first steps I made in React Native.
 
 ---
