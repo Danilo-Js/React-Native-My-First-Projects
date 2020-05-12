@@ -1,4 +1,6 @@
-  <img style="display:block;margin-left:auto;margin-right: auto;width: 50%;" src="./READMEfiles/topImage.png">
+<p align="center">
+  <img src="./READMEfiles/topImage.png">
+</p>
 
 ---
 
@@ -7,7 +9,7 @@
 ---
 
   ##  **What is this** ❔
-  This is a compilation of simple projects showing the first steps I made in React Native.
+  #### This is a compilation of simple projects showing the first steps I made in React Native.
 
 ---
 
