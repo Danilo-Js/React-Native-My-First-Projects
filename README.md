@@ -118,7 +118,7 @@ description
 <br>
 <br>
 
-#### [18](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P18%20-%20Mudar%20de%20tela%20e%20passar%20dados) -> Params
+#### [18](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P18%20-%20Params) -> Params
 description
 <br>
 <br>
