@@ -15,14 +15,14 @@ You can visit this course <a href="https://b7web.com.br/react-native/?gclid=CjwK
 
 ### 📱 About the projects
 
-#### [01](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P01%20-%20Janta) -> Janta *(dinner)*
+#### [01](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P01%20-%20Janta) -> Janta *(Dinner)*
 description
 <br>
 <br>
 <br>
 
 
-#### [02](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P02%20-%20Nome) -> Nome *(name)*
+#### [02](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P02%20-%20Nome) -> Nome *(Name)*
 description
 <br>
 <br>
