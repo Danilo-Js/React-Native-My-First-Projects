@@ -130,7 +130,7 @@ description
 <br>
 <br>
 
-#### [20](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P20%20-%20Chat%20de%20uma%20conversa) -> Chat
+#### [20](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P20%20-%20Chat) -> Chat
 description
 <br>
 <br>
