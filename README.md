@@ -30,9 +30,7 @@ You can visit this course <a href="https://b7web.com.br/react-native/?gclid=CjwK
 #### [13](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P13%20-%20Slider) -> Slider
 #### [14](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P14%20-%20Modal) -> Modal
 #### [15](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P15%20-%20StatusBar) -> StatusBar
-description
 #### [16](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P16%20-%20AsyncStorage) -> AsyncStorage
-description
 #### [17](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P17%20-%20Navigation%20(React%20Navigation%203.0)) -> React Navigation 3.0
 #### [18](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P18%20-%20Params) -> Params
 #### [19](https://github.com/Danilo-Js/React-Native-do-Zero-ao-Profissional/tree/master/P19%20-%20Lista%20de%20Conversas) -> Lista de Conversas *(Chat list)*
