@@ -8,6 +8,8 @@ You can visit this course <a href="https://b7web.com.br/react-native/?gclid=CjwK
 
 
 <p align="center">
+  <img alt="Repository stars" src="https://img.shields.io/github/stars/Danilo-Js/React-Native-My-First-Projects">
+  
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Danilo-Js/React-Native-My-First-Projects">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Danilo-Js/React-Native-My-First-Projects">
