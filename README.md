@@ -14,10 +14,6 @@ You can visit this course <a href="https://b7web.com.br/react-native/?gclid=CjwK
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Danilo-Js/React-Native-My-First-Projects">
 
-  <a href="https://www.codacy.com/manual/Danilo-Js/React-Native-My-First-Projects?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Danilo-Js/React-Native-My-First-Projects&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/f7229d19b27449f390877f6f93b7c4df">
-  </a>
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Danilo-Js/React-Native-My-First-Projects">
   
   <a href="https://img.shields.io/github/last-commit/Danilo-Js/React-Native-My-First-Projects/commits/master">
